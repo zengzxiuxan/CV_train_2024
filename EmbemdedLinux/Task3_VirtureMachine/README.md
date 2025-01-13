@@ -21,4 +21,4 @@
     - apt 包管理器
     - systemctl 系统服务
  - 安装opencv cpp环境并编译 40%
- - 在ubuntu容器中安装rknn toolkit模型转换工具
+ - 在ubuntu容器中安装rknn toolkit模型转换工具 20%
